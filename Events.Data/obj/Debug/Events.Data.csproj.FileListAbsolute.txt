@@ -1,0 +1,16 @@
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lleka\source\repos\EventsExample\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lleka\source\repos\EventsExample\Events.Data\obj\Debug\Events.Data.csprojAssemblyReference.cache
+C:\Users\lleka\source\repos\EventsExample\Events.Data\obj\Debug\Events.Data.csproj.CoreCompileInputs.cache
+C:\Users\lleka\source\repos\EventsExample\Events.Data\obj\Debug\Events.Data.csproj.CopyComplete
+C:\Users\lleka\source\repos\EventsExample\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\lleka\source\repos\EventsExample\Events.Data\obj\Debug\Events.Data.pdb
